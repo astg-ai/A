@@ -1,0 +1,3 @@
+git rm .github/workflows/build.yml
+git commit -m "Remove APK build workflow"
+git push
